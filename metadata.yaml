@@ -14,6 +14,8 @@ creator:
 description: Title; Contents; I; II; III; IV; V; VI; VII; VIII; IX; X; XI; XII; XIII;
   XIV; XV; XVI; XVII; XVIII; XIX; XX; XXI; XXII; XXIII; XXIV; XXV; XXVI; XXVII; XXVIII;
   XXIX; XXX; XXXI;
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17144#The-House-of-the-Vampire
 gutenberg_bookshelf: Horror
 gutenberg_issued: '2005-11-23'
 gutenberg_type: Text
