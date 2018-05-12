@@ -1,0 +1,31 @@
+_repo: The-House-of-the-Vampire_17144
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Viereck, George Sylvester
+    birthdate: 1884
+    deathdate: 1962
+    gutenberg_agent_id: '7165'
+    url: http://www.gutenberg.org/2009/agents/7165
+    wikipedia: http://en.wikipedia.org/wiki/George_Sylvester_Viereck
+description: Title; Contents; I; II; III; IV; V; VI; VII; VIII; IX; X; XI; XII; XIII;
+  XIV; XV; XVI; XVII; XVIII; XIX; XX; XXI; XXII; XXIII; XXIV; XXV; XXVI; XXVII; XXVIII;
+  XXIX; XXX; XXXI;
+gutenberg_bookshelf: Horror
+gutenberg_issued: '2005-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17144'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales'
+- !lcc 'PS'
+- !lcsh 'Vampires -- Fiction'
+title: The House of the Vampire
+url: http://www.gutenberg.org/ebooks/17144
